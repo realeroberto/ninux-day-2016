@@ -12,6 +12,246 @@
 
 ----
 
-Fog and the City: an urbanist's perspective
-===========================================
+http://wiki.ninux.org/NinuxDay2016/
 
+----
+
+Fog and the City
+================
+
+an urbanist's perspective
+
+----
+
+mesh networks
+=============
+
+----
+
+a network topology in which all nodes cooperate to distribute data
+
+----
+
+fog computing
+=============
+
+----
+
+peripherical clients/devices carry out (a substantial amount of) storage, communication, control, configuration, measurement, and management
+
+----
+
+	fog computing is a distributed paradigm that provides cloud-like services to the network edge
+
+	-- Amir Vahid Dastjerdi, Rajkumar Buyya, Fog Computing: Helping the Internet of Things Realize its Potential
+
+----
+
+	it leverages cloud and edge resources along with its own infrastructure
+
+	-- Amir Vahid Dastjerdi, Rajkumar Buyya, Fog Computing: Helping the Internet of Things Realize its Potential
+
+----
+
+fog for smart cities
+====================
+
+----
+
+smart grid
+
+----
+
+smart traffic lights and connected vehicles
+
+----
+
+wireless sensor and actuator networks
+
+----
+
+decentralized smart building control
+
+----
+
+iot and cyber-physical systems
+
+----
+
+software defined networks
+
+----
+
+why does it matter?
+===================
+
+----
+
+end users are involved in the computation effort
+
+----
+
+security
+========
+
+----
+
+privacy concerns
+
+----
+
+	the main security issues are authentication at different levels of gateways
+
+	-- Ivan Stojmenovic, Sheng Wen, The Fog Computing Paradigm: Scenarios and Security Issues
+
+----
+
+open source architecture
+========================
+
+----
+
+"vernacular" awareness
+
+----
+
+glocalism
+
+----
+
+developing/sharing best practices
+
+----
+
+involvement of...
+
+----
+
+	inhabitants, professionals, NGOs, public agencies, researchers, activists, artists, sociologists, and urban scientists
+
+	-- https://wiki.p2pfoundation.net/P2P_Urbanism
+
+----
+
+	meant to study, construct, and repair the city in a way that anyone may choose, participate, share, and modify theories, methods, and implementation technologies at any one time
+
+	-- https://wiki.p2pfoundation.net/P2P_Urbanism
+
+----
+
+civic engagement
+================
+
+----
+
+	in the disciplines of urban design and architecture, it is imperative to consider the social, environmental, and economic contexts in which they exist
+
+	-- Glenda Amayo Caldwell, Marcus Foth, Mirko Guaralda, An urban informatics approach to smart city learning in architecture and urban design education
+
+----
+
+	around the world, civic engagement is paramount to promoting democracy and equity throughout urban planning, policy reform, and design
+
+	-- Glenda Amayo Caldwell, Marcus Foth, Mirko Guaralda, An urban informatics approach to smart city learning in architecture and urban design education
+
+----
+
+	mesh networking only represents one small (albeit critical) part of the overall smart city infrastructure
+
+	-- Primavera De Filippi, Community Mesh Networks: Citizens' Participation in the Deployment of Smart Cities
+
+----
+
+	technology can (and should) also be deployed to elaborate and deploy innovative systems of governance
+
+	-- Primavera De Filippi, Community Mesh Networks: Citizens' Participation in the Deployment of Smart Cities
+
+----
+
+	a truly emancipatory technology should not only provide the means for citizens to become more independent and autonomous within their own city, but also to exercise greater control and oversight over the municipality
+
+	-- Primavera De Filippi, Community Mesh Networks: Citizens' Participation in the Deployment of Smart Cities
+
+----
+
+privacy/comfort trade-off?
+==========================
+
+----
+
+	quite the contrary
+
+	-- Primavera De Filippi, Community Mesh Networks: Citizens' Participation in the Deployment of Smart Cities
+
+----
+
+	the need to align innovation policies for smart cities deployment with better urban development and greater citizen empowerment requires reconsidering the role of citizens as the central focus of smart cities development
+
+	-- Primavera De Filippi, Community Mesh Networks: Citizens' Participation in the Deployment of Smart Cities
+
+----
+
+	the general approach to smart cities deployment must integrate the social component to the technical component
+
+	-- Primavera De Filippi, Community Mesh Networks: Citizens' Participation in the Deployment of Smart Cities
+
+----
+
+	through the deployment of mesh networks, citizens can set up their own smart-city environments, by connecting several devices together in a decentralized fashion within a peer-to-peer network
+
+	-- Primavera De Filippi, Community Mesh Networks: Citizens' Participation in the Deployment of Smart Cities
+
+----
+
+	without the need for a centralized authority
+
+	-- Primavera De Filippi, Community Mesh Networks: Citizens' Participation in the Deployment of Smart Cities
+
+----
+
+break free from closed-loop systems!
+====================================
+
+----
+
+is the urbanist obsolete?
+=========================
+
+----
+
+phigital approach
+
+----
+
+urban informatics
+
+----
+
+ensuring optimal resource distribution
+
+----
+
+interface local/global
+
+----
+
+easing the transition towards self-regulating communities
+
+----
+
+Colophon
+========
+
+----
+
+vim, Hovercraft!, Ubuntu Xenial Xerus
+
+----
+
+Roberto Reale
+
+----
+
+http://hurbana.city
+
+https://ninux-day-2016.github.io
