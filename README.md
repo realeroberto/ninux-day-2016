@@ -6,6 +6,8 @@ The new models for an open, distributed, collaborative computing not only do off
 
 ## Availability
 
+The [`master`](https://github.com/robertoreale/ninux-day-2016/tree/master) branch contains the source code, whilst the [`gh-pages`](https://github.com/robertoreale/ninux-day-2016/tree/gh-pages) branch contains the generated [web pages](https://robertoreale.me/ninux-day-2016).
+
 The slides are available in a printable format at [issuu](https://issuu.com/roberto-reale/docs/ninux-day-2016) as well as at [SlideShare](https://www.slideshare.net/robertoreale/fog-and-the-city-an-urbanists-perspective).
 
 ## License Notice
